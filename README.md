@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<HTML lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, intial-scale=1.0">
+    <title>Projeto em Dupla</title>
+</head>
+<body>
+  <h1>Proejto Colaborativo no GitHub</h1>
+  <p>
+    Esta é a primeira versão da página criada durante a atividade prática de GitHub.
+  </p>
+
+  <h2>Equipe</h2>
+
+  <p>Integrante A: coloque seu nome aqui</p>
+  
+</body>
+</html>
